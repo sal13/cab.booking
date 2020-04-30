@@ -1,7 +1,7 @@
 # cab.booking
 build using 
 ./gradlew clean build
-run  the following commands
+run the following commands:
 java -jar build/libs/cab.booking-0.0.1-SNAPSHOT.jar 
 register_driver 123
 register_user abc
